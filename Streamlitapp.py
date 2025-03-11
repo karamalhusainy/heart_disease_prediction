@@ -1,4 +1,4 @@
-pip install streamlit pickle5
+pip install -r requirements.txt
 import streamlit as st
 import pickle
 import pandas as pd
